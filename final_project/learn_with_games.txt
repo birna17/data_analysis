@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.12753/2066-026X-19-008</identifier>
+  <creators>
+    <creator>
+      <creatorName>Nicoleta, Calinoiu (Ion)</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>LEARNING ENHANCEMENT THROUGH VIDEO GAMES</title>
+    <title titleType="Subtitle"> </title>
+  </titles>
+  <publisher>ADLRO</publisher>
+  <publicationYear>2019</publicationYear>
+  <subjects>
+    <subject>Science and knowledge</subject>
+    <subject>Organization</subject>
+    <subject>Computer science</subject>
+    <subject>Information</subject>
+    <subject>Documentation</subject>
+    <subject>Librarianship</subject>
+    <subject>Institution</subject>
+    <subject>Publications</subject>
+  </subjects>
+  <language>eng</language>
+  <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+  <version>1.0</version>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsCitedBy">10.12753/2066-026X-19-008</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsReferencedBy">http://proceedings.elseconference.eu/index.php?paper=837fe17a6e968755cbe1c6d2a4c55f55</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="PURL" relationType="Cites">http://proceedings.elseconference.eu/index.php?paper=837fe17a6e968755cbe1c6d2a4c55f55</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsCitedBy">http://proceedings.elseconference.eu/index.php?paper=837fe17a6e968755cbe1c6d2a4c55f55</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+    <size>758784 B</size>
+  </sizes>
+  <descriptions>
+    <description descriptionType="Abstract">
+Video games are becoming increasingly popular among young people, as the virtual worlds they depict seem to be the preferred refuge when it comes to escaping reality. 
+As educators, we should attempt to study the effects they have on our students' minds and, if proven beneficial, use them in our classrooms to enhance learning (and the motivation for learning) whenever possible. The digital natives we teach nowadays, the so-called screenagers, have high expectations of the classroom settings they are a part of. Technology, therefore, and video games should be present in such learning environments. Moreover, the skills they develop in games should be acknowledged and transferred to real-life settings. Games could help educators reach out to them, bridging the gap between teachers and students in our efforts to provide them with learning contexts endowed with meaning. "Meaning is the feeling that we're part of something bigger than ourselves. It's the belief that our lives matter beyond our own individual lives." (Jane McGonigal, "Reality is broken. Why games make us better and how they can change the world") Therefore, video games players embark on a quest for meaning when entering such virtual worlds as those presented in World of Warcraft, for example.  
+Most games have four defining traits: a goal (the outcome to be achieved), a set of rules (limitations the players have to cope with), a feedback system (informing them on the progress they make, which represents a great motivation to keep on playing), and voluntary participation (the gamer willingly accepts the goal, the rules and the feedback system). Since gaming involves voluntary participation, players are intrinsically motivated to bring their contribution to the epic mission the game takes them on. In addition, the constant feedback given to them is nothing but a strong incentive to continue playing. Hence, games are all about the "epic meaning", the "urgent optimism" players feel, the "social fabric" they weave since quite often gamers need to collaborate with other players to achieve their goals. 
+Therefore, there are all sorts of life skills players acquire in games and, most importantly, they can be transferred to reality, the ability to work as part of a team being one of them. 
+The findings of the present research consist mostly of qualitative data gathered during a case study conducted among middle and high school students. There have been interviews with teenage and young subjects that come to confirm the popularity of games as learning tools and their potential positive results in learning environments. 
+Initially, structured interviews were used, which led to the collection of data further explored in focus group sessions. 
+Using such qualitative research methods, we managed to explore the views, experiences, beliefs and motivations of individual participants regarding gaming, as well as their self-perceived competences acquired while playing video games.  Among such competences, we can list: strategy skills from managing cities and taxing them in order to support armies meant to assist the players in expanding on the map (as well as developing historical knowledge) and connection-making abilities from the puzzles they had to solve in order to be able to advance through the game. 
+In addition, the research generated an inventory of video games classified according to their themes and perceived value.
+The conclusions will be presented in detail during the conference proceedings.
+</description>
+  </descriptions>
+</resource>
